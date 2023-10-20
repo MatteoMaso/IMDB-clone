@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import Header from '@/components/Header'
 import './globals.css'
 
@@ -36,6 +37,7 @@ export default function RootLayout({
         <SearchBox />
 
         {children}
+        <Analytics /> 
       </body>
     </html>
   )
