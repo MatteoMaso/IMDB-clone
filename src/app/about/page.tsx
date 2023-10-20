@@ -9,7 +9,7 @@ export default function About() {
 
             <h2>Our Mission</h2>
             <p>
-                At MovieDB, our mission is to connect the world's audiences with films and TV shows, making it easy for you to discover new content, track what you've watched, and engage with a global community of movie and TV enthusiasts.
+                At MovieDB, our mission is to connect the world&apos;s audiences with films and TV shows, making it easy for you to discover new content, track what you&apos;ve watched, and engage with a global community of movie and TV enthusiasts.
             </p>
 
             <h2>What We Offer</h2>
@@ -23,7 +23,7 @@ export default function About() {
 
             <h2>Join Our Community</h2>
             <p>
-                Whether you're looking to find out more about that latest blockbuster, discover a hidden TV gem, or just chat about your favorite shows and films, MovieDB is the place for you. Join our ever-growing community and dive into the world of movies and television like never before!
+                Whether you&apos;re looking to find out more about that latest blockbuster, discover a hidden TV gem, or just chat about your favorite shows and films, MovieDB is the place for you. Join our ever-growing community and dive into the world of movies and television like never before!
             </p>
         </div>
     )
