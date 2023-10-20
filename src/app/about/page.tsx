@@ -2,7 +2,7 @@ export default function About() {
     return (
         // mx-auto: center the content when using the max width
         <div className="max-w-6xl mx-4 sm:mx-auto space-y-4">
-            <h1 className="text-2xl font-medium text-amber-600">ABOUT</h1>
+            <h1 className="text-2xl font-medium text-amber-600 sm:mt-5">ABOUT</h1>
             <p>
                 Founded in 2023, MovieDB is your go-to resource for movie, TV show, and celebrity information. Our platform offers a comprehensive database, catering to cinephiles, TV enthusiasts, and casual viewers alike.
             </p>
